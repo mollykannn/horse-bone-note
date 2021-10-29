@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,a}from"./app.698550a6.js";const E='{"title":"GREEN PAGE BBS Crawler","description":"","frontmatter":{},"relativePath":"GREEN-PAGE-BBS-crawler/index.md","lastUpdated":1635501086941}',h={},e=a('',6),o=[e];function N(f,l,m,n,s,R){return r(),d("div",null,o)}var c=t(h,[["render",N]]);export{E as __pageData,c as default};
