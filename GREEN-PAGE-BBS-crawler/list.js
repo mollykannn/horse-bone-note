@@ -29,7 +29,8 @@ fs.writeFile(ouptputCSV, "記事番号,タイトル,投稿者,投稿日時\n", (
         const details = element.textContent.split("\n")[2].split(/[()]/);
         const name = details[0].trim();
         const date = details[1].trim();
-        data += donain.indexOf("chaosunion") > -1
+        data +=
+          donain.indexOf("chaosunion") > -1
             ? `${number},${title},${name},${date}\n`
             : ``;
       }
@@ -42,7 +43,10 @@ fs.writeFile(ouptputCSV, "記事番号,タイトル,投稿者,投稿日時\n", (
 
     const buttonSelector = await page.$$("[value=次のページ]");
     if (buttonSelector.length > 0) {
-      await　page.click("[value=次のページ]")
+      await Promise.all([
+        page.waitForNavigation(),
+        page.click("[value=次のページ]"),
+      ]);
     } else {
       break;
     }

@@ -28,7 +28,11 @@ if (!fs.existsSync(dir)) {
     const result = await page.evaluate(() => {
       const title = document.querySelector("b").innerText;
       const content = document.querySelectorAll("p");
-      return `# ${title}\n\n${content[0].innerText.split('\n').join('  \n')}\n\n---\n\n${content[1].innerText.split('\n').join('  \n')}`;
+      return `# ${title}\n\n${content[0].innerText
+        .split("\n")
+        .join("  \n")}\n\n---\n\n${content[1].innerText
+        .split("\n")
+        .join("  \n")}`;
     });
 
     fs.writeFile(`${dir}/${numbers[i]}.md`, result, (err) => {
