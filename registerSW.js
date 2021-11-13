@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/web-crawler-hirasawa/sw.js', { scope: '/web-crawler-hirasawa/' })})}
