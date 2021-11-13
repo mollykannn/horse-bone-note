@@ -31,7 +31,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/icon-192x192.png",
+        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-192x192.png",
         type: "image/png",
         size: "192x192",
       },
@@ -40,7 +40,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/icon-32x32.png",
+        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-32x32.png",
         type: "image/png",
         size: "32x32",
       },
@@ -49,7 +49,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/icon-16x16.png",
+        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-16x16.png",
         type: "image/png",
         size: "16x16",
       },
@@ -67,6 +67,11 @@ module.exports = {
     ["meta", { property: "twitter:card", content: "summary_large_image" }],
     ["meta", { property: "twitter:title", content: "Note" }],
     ["meta", { name: "theme-color", content: "#000" }],
+    ["link", {
+      rel: "manifest",
+      href: "https://mollykannn.github.io/web-crawler-hirasawa/manifest.webmanifest",
+    },],
+    ["script", { src: "https://mollykannn.github.io/web-crawler-hirasawa/registerSW.js" }],
   ],
   dest: "dist",
   themeConfig: {
