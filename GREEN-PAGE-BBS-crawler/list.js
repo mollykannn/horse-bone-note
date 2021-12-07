@@ -8,7 +8,7 @@ if (!fs.existsSync(dir)) {
   fs.mkdirSync(dir);
 }
 
-// Create list.csv
+// create list.csv
 fs.writeFile(ouptputCSV, "記事番号,タイトル,投稿者,投稿日時\n", (err) => {
   if (err) throw err;
 });
@@ -26,9 +26,7 @@ fs.writeFile(ouptputCSV, "記事番号,タイトル,投稿者,投稿日時\n", (
         const donain = element.textContent.split("\n")[3];
         const title = element.querySelector("a").innerText;
         const number = element.querySelector("font[size='2']").innerText;
-        const details = element.textContent.split("\n")[2].split(/[()]/);
-        const name = details[0].trim();
-        const date = details[1].trim();
+        const [name, date] = element.textContent.split("\n")[2].split(/[()]/).map(element => element.trim());;
         data +=
           donain.indexOf("chaosunion") > -1
             ? `${number},${title},${name},${date}\n`

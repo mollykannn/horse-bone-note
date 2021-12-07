@@ -23,7 +23,6 @@ module.exports = {
       {
         rel: "apple-touch-icon",
         href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/apple-touch-icon.png",
-        rel: "apple-touch-icon",
         size: "180x180",
       },
     ],
