@@ -4,4 +4,4 @@
 
 ---
 
-Fvaicon icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
+Favicon made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
