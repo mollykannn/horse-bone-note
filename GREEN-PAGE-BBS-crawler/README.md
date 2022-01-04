@@ -8,7 +8,7 @@ Webクローラーを使って、[GREEN-PAGE-BBS](http://susumuhirasawa.com/gn/b
 
 今はNo.6592前の投稿を取らないので、このプログラムはNo.6593から取る。
 
-結果を表示するWebページ: [GREEN-PAGE-BBS-crawler](https://mollykannn.github.io/web-crawler-hirasawa/GREEN-PAGE-BBS-crawler/index.html)
+結果を表示するWebページ: [GREEN-PAGE-BBS-crawler](https://mollykannn.github.io/horse-bone-note/GREEN-PAGE-BBS-crawler/index.html)
 
 ---
 

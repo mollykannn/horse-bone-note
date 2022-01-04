@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Note",
-  description: "Note",
-  base: "/web-crawler-hirasawa/",
+  title: "馬骨筆記本",
+  description: "馬骨記錄用筆記本",
+  base: "/horse-bone-note/",
   head: [
     [
       "meta",
@@ -14,7 +14,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/favicon.ico",
+        href: "https://mollykannn.github.io/horse-bone-note/images/icons/favicon.ico",
         type: "image/ico",
       },
     ],
@@ -22,7 +22,7 @@ module.exports = {
       "link",
       {
         rel: "apple-touch-icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/apple-touch-icon.png",
+        href: "https://mollykannn.github.io/horse-bone-note/images/icons/apple-touch-icon.png",
         size: "180x180",
       },
     ],
@@ -30,7 +30,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-192x192.png",
+        href: "https://mollykannn.github.io/horse-bone-note/images/icons/android-chrome-192x192.png",
         type: "image/png",
         size: "192x192",
       },
@@ -39,7 +39,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-32x32.png",
+        href: "https://mollykannn.github.io/horse-bone-note/images/icons/android-chrome-32x32.png",
         type: "image/png",
         size: "32x32",
       },
@@ -48,29 +48,29 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/web-crawler-hirasawa/images/icons/android-chrome-16x16.png",
+        href: "https://mollykannn.github.io/horse-bone-note/images/icons/android-chrome-16x16.png",
         type: "image/png",
         size: "16x16",
       },
     ],
-    ["meta", { property: "og:title", content: "Note" }],
+    ["meta", { property: "og:title", content: "馬骨筆記本" }],
     ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:description", content: "Note" }],
+    ["meta", { property: "og:description", content: "馬骨記錄用筆記本" }],
     [
       "meta",
       {
         property: "og:url",
-        content: "https://mollykannn.github.io/web-crawler-hirasawa/",
+        content: "https://mollykannn.github.io/horse-bone-note/",
       },
     ],
     ["meta", { property: "twitter:card", content: "summary_large_image" }],
-    ["meta", { property: "twitter:title", content: "Note" }],
+    ["meta", { property: "twitter:title", content: "馬骨筆記本" }],
     ["meta", { name: "theme-color", content: "#000" }],
     ["link", {
       rel: "manifest",
-      href: "https://mollykannn.github.io/web-crawler-hirasawa/manifest.webmanifest",
+      href: "https://mollykannn.github.io/horse-bone-note/manifest.webmanifest",
     },],
-    ["script", { src: "https://mollykannn.github.io/web-crawler-hirasawa/registerSW.js" }],
+    ["script", { src: "https://mollykannn.github.io/horse-bone-note/registerSW.js" }],
   ],
   dest: "dist",
   themeConfig: {
@@ -83,7 +83,7 @@ module.exports = {
       { text: "Home", link: "/" },
       {
         text: "Github",
-        link: "https://github.com/mollykannn/web-crawler-hirasawa",
+        link: "https://github.com/mollykannn/horse-bone-note",
       },
     ],
   },

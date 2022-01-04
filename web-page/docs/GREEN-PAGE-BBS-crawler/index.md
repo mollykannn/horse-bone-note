@@ -6,7 +6,7 @@ Webクローラーを使って、[GREEN-PAGE-BBS](http://susumuhirasawa.com/gn/b
 
 今はNo.6592前の投稿を取らないので、このプログラムはNo.6593から取る。
 
-プログラムは[こちら](https://github.com/mollykannn/web-crawler-hirasawa/tree/main/GREEN-PAGE-BBS-crawler)。
+プログラムは[こちら](https://github.com/mollykannn/horse-bone-note/tree/main/GREEN-PAGE-BBS-crawler)。
 
 
 記事番号|タイトル|投稿者|投稿日時

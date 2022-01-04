@@ -5,19 +5,19 @@ export default defineConfig({
   build: {
     sourcemap: process.env.SOURCE_MAP === 'true'
   },
-  base: '/web-crawler-hirasawa',
+  base: '/horse-bone-note',
   plugins: [
     VitePWA({
       filename: 'sw.js',
-      base: '/web-crawler-hirasawa/',
+      base: '/horse-bone-note/',
       outDir: '.vitepress/dist',
       registerType: 'autoUpdate',
       strategies: 'injectManifest',
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Note',
-        short_name: 'Note',
-        description: 'Note',
+        name: '馬骨筆記本',
+        short_name: '馬骨筆記本',
+        description: '馬骨記錄用筆記本',
         theme_color: '#0079d2',
         start_url: './index.html',
         lang: 'zh-Hant-HK',
