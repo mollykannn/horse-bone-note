@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.f8f7321d.js";const m='{"title":"\u3010\u8A18\u4E8B\u756A\u53F7\uFF1A7762\u3011 \u66F4\u65B0","description":"","frontmatter":{},"relativePath":"GREEN-PAGE-BBS-crawler/7762.md","lastUpdated":1658319228303}',o={},n=a("",4),_=[n];function c(s,h,i,p,d,f){return t(),r("div",null,_)}var u=e(o,[["render",c]]);export{m as __pageData,u as default};
