@@ -1,0 +1,1 @@
+import{_ as t,y as d,x as r,W as a}from"./plugin-vue_export-helper.04bdca47.js";const i='{"title":"GREEN PAGE BBS Crawler","description":"","frontmatter":{},"relativePath":"GREEN-PAGE-BBS-crawler/index.md","lastUpdated":1668230002875}',h={},e=a("",6),o=[e];function N(f,l,m,n,s,R){return r(),d("div",null,o)}var c=t(h,[["render",N]]);export{i as __pageData,c as default};
