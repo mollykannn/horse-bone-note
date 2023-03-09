@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.5be71377.js";const f=JSON.parse('{"title":"【記事番号：6905】 在オ登録開始","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/6905.md"}'),n={name:"GREEN-PAGE-BBS-crawler/6905.md"},i=a("",4),o=[i];function _(c,p,s,h,l,d){return t(),r("div",null,o)}const k=e(n,[["render",_]]);export{f as __pageData,k as default};

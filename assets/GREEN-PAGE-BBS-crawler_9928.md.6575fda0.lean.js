@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as e,a}from"./app.5be71377.js";const l=JSON.parse('{"title":"【記事番号：9928】 本当の愛のメッセージ","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/9928.md"}'),o={name:"GREEN-PAGE-BBS-crawler/9928.md"},b=a("",9),_=[b];function c(p,s,n,i,d,h){return e(),t("div",null,_)}const E=r(o,[["render",c]]);export{l as __pageData,E as default};

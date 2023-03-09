@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a as t}from"./app.5be71377.js";const E=JSON.parse('{"title":"【記事番号：9072】 パスワード更新","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/9072.md"}'),o={name:"GREEN-PAGE-BBS-crawler/9072.md"},_=t("",5),c=[_];function n(s,i,d,p,h,l){return a(),r("div",null,c)}const f=e(o,[["render",n]]);export{E as __pageData,f as default};

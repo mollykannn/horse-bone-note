@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,a}from"./app.5be71377.js";const i=JSON.parse('{"title":"GREEN PAGE BBS Crawler","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/index.md"}'),h={name:"GREEN-PAGE-BBS-crawler/index.md"},e=a("",6),o=[e];function N(f,l,m,n,s,R){return r(),d("div",null,o)}const c=t(h,[["render",N]]);export{i as __pageData,c as default};

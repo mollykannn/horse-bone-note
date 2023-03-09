@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a as t}from"./app.5be71377.js";const f=JSON.parse('{"title":"【記事番号：8525】 CD通販","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8525.md"}'),_={name:"GREEN-PAGE-BBS-crawler/8525.md"},c=t("",4),o=[c];function s(n,d,i,p,h,l){return a(),r("div",null,o)}const E=e(_,[["render",s]]);export{f as __pageData,E as default};
