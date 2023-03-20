@@ -7,6 +7,16 @@ const config = async () => {
     title: "馬骨筆記本",
     description: "馬骨記錄用筆記本",
     base: "/horse-bone-note",
+    head: [
+      [
+        'link',
+        { rel: 'icon', href: '/horse-bone-note/icons/favicon.ico' },
+      ],
+      [
+        'meta',
+        { name: 'theme-color', content: '#000000' },
+      ],
+  ],
     themeConfig: {
       nav: [{ text: "Home", link: "/" }],
       sidebar: await getSidebar(ignoreSidebar),
@@ -18,12 +28,11 @@ const config = async () => {
       ],
     },
     pwa: {
-      filename: "sw.js",
       base: "/horse-bone-note/",
       outDir: ".vitepress/dist",
       registerType: "autoUpdate",
-      strategies: "injectManifest",
-      includeAssets: ["favicon.ico", "robots.txt", "apple-touch-icon.png"],
+      injectRegister: 'auto',
+      includeAssets: ["robots.txt", "apple-touch-icon.png"],
       manifest: {
         name: "馬骨筆記本",
         short_name: "馬骨筆記本",
