@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,N as e}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：8385】 Solar AMIGAへの道-1","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8385.md"}'),o={name:"其他/comment/8385.md"},n=e("",4),_=[n];function i(s,c,l,A,m,f){return t(),r("div",null,_)}const h=a(o,[["render",i]]);export{d as __pageData,h as default};

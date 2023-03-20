@@ -1,0 +1,1 @@
+import{_ as e,o,c as r,N as t}from"./chunks/framework.d99b7f24.js";const m=JSON.parse('{"title":"【記事番号：7825】 「賢者のプロペラ」ビデオについて。質問です。","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7825.md"}'),a={name:"其他/comment/7825.md"},n=t("",9),_=[n];function s(c,p,i,d,b,D){return o(),r("div",null,_)}const V=e(a,[["render",s]]);export{m as __pageData,V as default};

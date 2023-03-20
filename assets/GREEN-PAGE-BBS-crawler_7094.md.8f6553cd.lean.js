@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,a as t}from"./app.5be71377.js";const f=JSON.parse('{"title":"【記事番号：7094】 賢者様の日誌","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/7094.md"}'),_={name:"GREEN-PAGE-BBS-crawler/7094.md"},o=t("",8),s=[o];function c(n,p,d,i,h,l){return r(),a("div",null,s)}const E=e(_,[["render",c]]);export{f as __pageData,E as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as o}from"./chunks/framework.d99b7f24.js";const f=JSON.parse('{"title":"【記事番号：8686】 しまちゃん子機のページ、更新！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8686.md"}'),r={name:"其他/comment/8686.md"},n=o("",4),c=[n];function _(s,i,h,p,m,d){return e(),a("div",null,c)}const u=t(r,[["render",_]]);export{f as __pageData,u as default};

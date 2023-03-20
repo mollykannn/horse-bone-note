@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as a,a as t}from"./app.5be71377.js";const E=JSON.parse('{"title":"【記事番号：8592】 質問です","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8592.md"}'),_={name:"GREEN-PAGE-BBS-crawler/8592.md"},o=t("",9),c=[o];function p(s,n,d,i,b,h){return a(),e("div",null,c)}const m=r(_,[["render",p]]);export{E as __pageData,m as default};

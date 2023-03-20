@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const S=JSON.parse('{"title":"【記事番号：8390】 ＣＤ＆ビデオ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8390.md"}'),r={name:"其他/comment/8390.md"},_=o("",7),c=[_];function n(s,p,d,i,m,h){return t(),a("div",null,c)}const A=e(r,[["render",n]]);export{S as __pageData,A as default};

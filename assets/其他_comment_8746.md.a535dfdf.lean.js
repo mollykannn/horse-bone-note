@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,N as a}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：8746】 エナジーワークス　１２月の予定追加！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8746.md"}'),o={name:"其他/comment/8746.md"},n=a("",5),c=[n];function s(_,h,i,p,m,w){return r(),t("div",null,c)}const f=e(o,[["render",s]]);export{d as __pageData,f as default};

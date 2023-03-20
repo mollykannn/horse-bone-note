@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as o}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：8914】 GPメンテナンス完了のお知らせ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8914.md"}'),a={name:"其他/comment/8914.md"},n=o("",5),_=[n];function c(s,i,p,b,d,m){return e(),t("div",null,_)}const f=r(a,[["render",c]]);export{l as __pageData,f as default};

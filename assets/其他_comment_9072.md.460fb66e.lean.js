@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,N as a}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：9072】 パスワード更新","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9072.md"}'),r={name:"其他/comment/9072.md"},n=a("",5),_=[n];function c(s,i,p,d,m,h){return t(),o("div",null,_)}const f=e(r,[["render",c]]);export{b as __pageData,f as default};

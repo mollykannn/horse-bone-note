@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,N as o}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：7729】 アドレス登録済みのＧＮ会員の皆様へ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7729.md"}'),a={name:"其他/comment/7729.md"},n=o("",5),_=[n];function c(s,i,p,d,m,h){return r(),t("div",null,_)}const u=e(a,[["render",c]]);export{l as __pageData,u as default};

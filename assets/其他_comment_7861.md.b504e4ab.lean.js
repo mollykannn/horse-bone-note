@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as o}from"./chunks/framework.d99b7f24.js";const k=JSON.parse('{"title":"【記事番号：7861】 sato-ken日誌号外！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7861.md"}'),n={name:"其他/comment/7861.md"},s=o("",7),r=[s];function _(c,p,i,d,m,h){return e(),a("div",null,r)}const u=t(n,[["render",_]]);export{k as __pageData,u as default};

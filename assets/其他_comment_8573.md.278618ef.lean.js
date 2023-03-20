@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as o}from"./chunks/framework.d99b7f24.js";const f=JSON.parse('{"title":"【記事番号：8573】 子猫ページ最終版アップしました","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8573.md"}'),r={name:"其他/comment/8573.md"},n=o("",5),c=[n];function _(s,i,h,p,m,l){return e(),a("div",null,c)}const u=t(r,[["render",_]]);export{f as __pageData,u as default};

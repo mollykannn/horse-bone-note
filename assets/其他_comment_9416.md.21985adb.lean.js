@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as a}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9416】 バインダーの中身","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9416.md"}'),o={name:"其他/comment/9416.md"},_=a("",5),c=[_];function n(s,i,p,d,m,b){return t(),r("div",null,c)}const f=e(o,[["render",n]]);export{l as __pageData,f as default};

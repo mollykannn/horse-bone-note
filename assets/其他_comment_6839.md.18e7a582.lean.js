@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as a}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：6839】 宅オ登録について質問！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/6839.md"}'),o={name:"其他/comment/6839.md"},n=a("",7),c=[n];function _(p,i,s,h,l,b){return t(),r("div",null,c)}const f=e(o,[["render",_]]);export{d as __pageData,f as default};

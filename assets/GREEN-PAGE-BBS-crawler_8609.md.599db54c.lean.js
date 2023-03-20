@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.5be71377.js";const b=JSON.parse('{"title":"【記事番号：8609】 つくばのホテルについて","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8609.md"}'),c={name:"GREEN-PAGE-BBS-crawler/8609.md"},o=a("",4),_=[o];function s(n,i,h,d,p,l){return t(),r("div",null,_)}const u=e(c,[["render",s]]);export{b as __pageData,u as default};

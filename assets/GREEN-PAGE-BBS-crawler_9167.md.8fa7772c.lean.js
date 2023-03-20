@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.5be71377.js";const l=JSON.parse('{"title":"【記事番号：9167】 box setの件","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/9167.md"}'),o={name:"GREEN-PAGE-BBS-crawler/9167.md"},s=a("",7),n=[s];function _(c,p,i,d,h,b){return t(),r("div",null,n)}const m=e(o,[["render",_]]);export{l as __pageData,m as default};

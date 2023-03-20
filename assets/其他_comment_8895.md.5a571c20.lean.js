@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as a}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：8895】 前略ケイオス様。","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8895.md"}'),o={name:"其他/comment/8895.md"},p=a("",11),_=[p];function b(c,n,s,i,d,m){return e(),t("div",null,_)}const f=r(o,[["render",b]]);export{l as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,N as t}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9929】 Green Page 閉鎖のお知らせ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9929.md"}'),n={name:"其他/comment/9929.md"},o=t("",7),_=[o];function c(s,p,b,i,d,m){return r(),a("div",null,_)}const g=e(n,[["render",c]]);export{l as __pageData,g as default};

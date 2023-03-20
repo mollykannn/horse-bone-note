@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const f=JSON.parse('{"title":"【記事番号：7173】 「ＮＥＷＳ２３」延期のお知らせ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7173.md"}'),r={name:"其他/comment/7173.md"},n=o("",5),c=[n];function _(s,i,p,h,m,d){return t(),a("div",null,c)}const u=e(r,[["render",_]]);export{f as __pageData,u as default};

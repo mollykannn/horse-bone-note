@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as a}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：8865】 平沢未ＣＤ化楽曲　配信のお知らせ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8865.md"}'),o={name:"其他/comment/8865.md"},n=a("",6),c=[n];function s(_,p,h,i,m,b){return e(),t("div",null,c)}const L=r(o,[["render",s]]);export{l as __pageData,L as default};

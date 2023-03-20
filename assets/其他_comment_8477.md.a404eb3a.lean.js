@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as a}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：8477】 エナジーハンティング開始！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8477.md"}'),o={name:"其他/comment/8477.md"},n=a("",6),c=[n];function _(s,p,h,i,m,l){return t(),r("div",null,c)}const u=e(o,[["render",_]]);export{b as __pageData,u as default};

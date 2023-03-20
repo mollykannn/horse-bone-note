@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.5be71377.js";const f=JSON.parse('{"title":"【記事番号：8006】 しまちゃん無事ＤＬ完了","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8006.md"}'),o={name:"GREEN-PAGE-BBS-crawler/8006.md"},c=a("",5),n=[c];function _(s,i,d,p,h,l){return r(),t("div",null,n)}const u=e(o,[["render",_]]);export{f as __pageData,u as default};

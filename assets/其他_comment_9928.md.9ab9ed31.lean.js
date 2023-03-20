@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as e,N as o}from"./chunks/framework.d99b7f24.js";const h=JSON.parse('{"title":"【記事番号：9928】 本当の愛のメッセージ","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9928.md"}'),a={name:"其他/comment/9928.md"},b=o("",9),_=[b];function c(n,p,s,i,d,m){return t(),e("div",null,_)}const l=r(a,[["render",c]]);export{h as __pageData,l as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.5be71377.js";const l=JSON.parse('{"title":"【記事番号：7405】 INFO更新","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/7405.md"}'),o={name:"GREEN-PAGE-BBS-crawler/7405.md"},n=a("",5),c=[n];function _(s,i,h,p,d,E){return t(),r("div",null,c)}const m=e(o,[["render",_]]);export{l as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as r}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：9024】 自殺するアクセサリー","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9024.md"}'),n={name:"其他/comment/9024.md"},o=r("",5),i=[o];function s(m,_,c,f,h,p){return e(),a("div",null,i)}const b=t(n,[["render",s]]);export{d as __pageData,b as default};

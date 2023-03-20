@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.5be71377.js";const E=JSON.parse('{"title":"【記事番号：8890】 スペースシャワーＴＶで","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8890.md"}'),o={name:"GREEN-PAGE-BBS-crawler/8890.md"},c=a("",7),_=[c];function s(n,p,h,d,i,l){return t(),r("div",null,_)}const b=e(o,[["render",s]]);export{E as __pageData,b as default};

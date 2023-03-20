@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as a}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：8890】 スペースシャワーＴＶで","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8890.md"}'),o={name:"其他/comment/8890.md"},c=a("",7),_=[c];function s(n,p,h,i,m,d){return t(),r("div",null,_)}const f=e(o,[["render",s]]);export{b as __pageData,f as default};

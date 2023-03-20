@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：8525】 CD通販","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8525.md"}'),r={name:"其他/comment/8525.md"},_=o("",4),c=[_];function n(s,d,i,m,p,h){return t(),a("div",null,c)}const f=e(r,[["render",n]]);export{b as __pageData,f as default};

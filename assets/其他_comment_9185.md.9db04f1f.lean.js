@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,N as r}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9185】 此岸と書いて「KOGAN」と読む場合","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9185.md"}'),a={name:"其他/comment/9185.md"},_=r("",5),n=[_];function c(s,i,p,d,b,m){return e(),o("div",null,n)}const u=t(a,[["render",c]]);export{l as __pageData,u as default};

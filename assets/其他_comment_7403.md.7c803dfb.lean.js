@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,N as a}from"./chunks/framework.d99b7f24.js";const T=JSON.parse('{"title":"【記事番号：7403】 大和久勝さん雑誌露出情報","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7403.md"}'),o={name:"其他/comment/7403.md"},c=a("",5),n=[c];function _(i,p,s,h,l,m){return r(),t("div",null,n)}const b=e(o,[["render",_]]);export{T as __pageData,b as default};

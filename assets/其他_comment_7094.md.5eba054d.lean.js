@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const f=JSON.parse('{"title":"【記事番号：7094】 賢者様の日誌","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7094.md"}'),_={name:"其他/comment/7094.md"},r=o("",8),n=[r];function s(c,p,i,m,d,h){return t(),a("div",null,n)}const u=e(_,[["render",s]]);export{f as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,N as r}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9167】 box setの件","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9167.md"}'),a={name:"其他/comment/9167.md"},n=r("",7),s=[n];function _(c,p,i,b,d,m){return t(),o("div",null,s)}const f=e(a,[["render",_]]);export{l as __pageData,f as default};

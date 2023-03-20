@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as r}from"./app.5be71377.js";const l=JSON.parse('{"title":"【記事番号：7144】 シェ―の恐怖","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/7144.md"}'),o={name:"GREEN-PAGE-BBS-crawler/7144.md"},_=r("",6),c=[_];function n(s,i,p,d,h,A){return a(),e("div",null,c)}const u=t(o,[["render",n]]);export{l as __pageData,u as default};

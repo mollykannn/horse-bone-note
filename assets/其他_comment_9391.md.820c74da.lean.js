@@ -1,0 +1,1 @@
+import{_ as r,o as b,c as t,N as e}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9391】 ゆえにMTBしかるにリカンベント","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9391.md"}'),a={name:"其他/comment/9391.md"},o=e("",8),_=[o];function c(n,s,p,i,m,d){return b(),t("div",null,_)}const u=r(a,[["render",c]]);export{l as __pageData,u as default};

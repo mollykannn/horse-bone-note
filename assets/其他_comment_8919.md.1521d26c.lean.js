@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as e,N as a}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：8919】 書き込みチェックがてら質問","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8919.md"}'),o={name:"其他/comment/8919.md"},s=a("",4),c=[s];function _(n,i,p,h,m,b){return t(),e("div",null,c)}const l=r(o,[["render",_]]);export{d as __pageData,l as default};

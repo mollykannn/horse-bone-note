@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,a as t}from"./app.5be71377.js";const l=JSON.parse('{"title":"【記事番号：8390】 ＣＤ＆ビデオ","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/8390.md"}'),_={name:"GREEN-PAGE-BBS-crawler/8390.md"},c=t("",7),o=[c];function s(n,p,d,i,h,S){return r(),a("div",null,o)}const A=e(_,[["render",s]]);export{l as __pageData,A as default};

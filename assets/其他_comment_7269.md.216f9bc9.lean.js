@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as a}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：7269】 ワイアレスのライセンスについて質問","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7269.md"}'),o={name:"其他/comment/7269.md"},_=a("",10),p=[_];function c(n,s,i,b,d,m){return e(),t("div",null,p)}const f=r(o,[["render",c]]);export{l as __pageData,f as default};

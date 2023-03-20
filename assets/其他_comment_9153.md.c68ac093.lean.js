@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as r}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：9153】 機械の中の田井中","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9153.md"}'),o={name:"其他/comment/9153.md"},n=r("",5),s=[n];function _(c,i,m,p,f,h){return e(),a("div",null,s)}const u=t(o,[["render",_]]);export{d as __pageData,u as default};

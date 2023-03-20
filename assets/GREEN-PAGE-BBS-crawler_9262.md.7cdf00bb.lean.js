@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,a as t}from"./app.5be71377.js";const b=JSON.parse('{"title":"【記事番号：9262】 祝・御生誕日！","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/9262.md"}'),_={name:"GREEN-PAGE-BBS-crawler/9262.md"},o=t("",8),c=[o];function s(n,p,d,i,h,l){return a(),r("div",null,c)}const f=e(_,[["render",s]]);export{b as __pageData,f as default};

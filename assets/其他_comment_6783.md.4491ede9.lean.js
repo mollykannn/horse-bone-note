@@ -1,0 +1,1 @@
+import{_ as r,o as a,c as e,N as t}from"./chunks/framework.d99b7f24.js";const m=JSON.parse('{"title":"【記事番号：6783】 音響問題について。","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/6783.md"}'),o={name:"其他/comment/6783.md"},n=t("",10),_=[n];function c(s,p,b,i,d,h){return a(),e("div",null,_)}const f=r(o,[["render",c]]);export{m as __pageData,f as default};

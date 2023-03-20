@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,N as a}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：8376】 ソーラーレイ発売情報について","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8376.md"}'),r={name:"其他/comment/8376.md"},n=a("",8),_=[n];function c(s,p,i,d,m,h){return t(),o("div",null,_)}const f=e(r,[["render",c]]);export{b as __pageData,f as default};

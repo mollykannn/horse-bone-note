@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as r}from"./chunks/framework.d99b7f24.js";const m=JSON.parse('{"title":"【記事番号：6905】 在オ登録開始","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/6905.md"}'),n={name:"其他/comment/6905.md"},o=r("",4),i=[o];function _(c,p,s,l,h,d){return t(),a("div",null,i)}const k=e(n,[["render",_]]);export{m as __pageData,k as default};

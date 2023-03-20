@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as r}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：8520】 質問に答えろ！！（連載更新の伝言）","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8520.md"}'),o={name:"其他/comment/8520.md"},n=r("",5),_=[n];function i(s,c,m,p,f,h){return e(),a("div",null,_)}const u=t(o,[["render",i]]);export{d as __pageData,u as default};

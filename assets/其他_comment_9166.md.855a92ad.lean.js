@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as o}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9166】 ケイオス様、ノリが・・・","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9166.md"}'),a={name:"其他/comment/9166.md"},p=o("",11),n=[p];function _(c,s,i,b,d,m){return e(),t("div",null,n)}const f=r(a,[["render",_]]);export{l as __pageData,f as default};

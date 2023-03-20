@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as o}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：6841】 NEWS 23に師匠登場","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/6841.md"}'),a={name:"其他/comment/6841.md"},n=o("",5),c=[n];function _(s,i,h,p,m,d){return t(),r("div",null,c)}const f=e(a,[["render",_]]);export{l as __pageData,f as default};

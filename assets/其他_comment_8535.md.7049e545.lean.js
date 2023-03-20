@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,N as t}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：8535】 「SOLAR RAY」通販について","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8535.md"}'),o={name:"其他/comment/8535.md"},n=t("",5),s=[n];function c(_,p,h,i,l,m){return r(),a("div",null,s)}const A=e(o,[["render",c]]);export{b as __pageData,A as default};

@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as t,N as a}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：7367】 音楽の世界の著作権の複雑さ-","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7367.md"}'),n={name:"其他/comment/7367.md"},c=a("",8),p=[c];function b(o,_,s,h,l,w){return e(),t("div",null,p)}const m=r(n,[["render",b]]);export{d as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：7478】 成せばナル、ナセルはアラブの大統領","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7478.md"}'),r={name:"其他/comment/7478.md"},n=o("",5),_=[n];function s(c,i,p,d,m,h){return t(),a("div",null,_)}const f=e(r,[["render",s]]);export{b as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as r}from"./chunks/framework.d99b7f24.js";const b=JSON.parse('{"title":"【記事番号：7305】 ラジオリクエスト大歓迎","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7305.md"}'),o={name:"其他/comment/7305.md"},_=r("",4),c=[_];function n(s,i,d,p,m,h){return t(),a("div",null,c)}const f=e(o,[["render",n]]);export{b as __pageData,f as default};

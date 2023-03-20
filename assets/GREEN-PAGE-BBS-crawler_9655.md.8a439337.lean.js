@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as a,a as t}from"./app.5be71377.js";const m=JSON.parse('{"title":"【記事番号：9655】 その誤解を解く","description":"","frontmatter":{},"headers":[],"relativePath":"GREEN-PAGE-BBS-crawler/9655.md"}'),_={name:"GREEN-PAGE-BBS-crawler/9655.md"},o=t("",9),c=[o];function p(s,n,i,d,h,l){return a(),e("div",null,c)}const f=r(_,[["render",p]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as r,o as e,c as a,N as t}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：7020】 賢者のプロペラＭＰ３配信第２弾！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/7020.md"}'),n={name:"其他/comment/7020.md"},o=t("",4),i=[o];function p(_,c,s,b,h,m){return e(),a("div",null,i)}const k=r(n,[["render",p]]);export{d as __pageData,k as default};

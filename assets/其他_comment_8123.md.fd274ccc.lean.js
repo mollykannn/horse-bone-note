@@ -1,0 +1,1 @@
+import{_ as o,o as n,c as t,N as e}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：8123】 No.8103のリンク切れ訂正です。","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8123.md"}'),r={name:"其他/comment/8123.md"},a=e("",6),c=[a];function _(s,h,p,m,i,u){return n(),t("div",null,c)}const d=o(r,[["render",_]]);export{l as __pageData,d as default};

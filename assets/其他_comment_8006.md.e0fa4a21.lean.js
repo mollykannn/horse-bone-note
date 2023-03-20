@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,N as o}from"./chunks/framework.d99b7f24.js";const f=JSON.parse('{"title":"【記事番号：8006】 しまちゃん無事ＤＬ完了","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8006.md"}'),r={name:"其他/comment/8006.md"},n=o("",5),c=[n];function _(s,i,p,d,h,l){return e(),a("div",null,c)}const u=t(r,[["render",_]]);export{f as __pageData,u as default};

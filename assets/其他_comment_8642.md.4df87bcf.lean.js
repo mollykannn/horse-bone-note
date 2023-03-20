@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：8642】 LIVEページ更新しました","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8642.md"}'),r={name:"其他/comment/8642.md"},n=o("",6),c=[n];function _(s,i,h,p,l,m){return t(),a("div",null,c)}const f=e(r,[["render",_]]);export{d as __pageData,f as default};

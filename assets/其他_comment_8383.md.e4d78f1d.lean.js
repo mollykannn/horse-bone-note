@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as r}from"./chunks/framework.d99b7f24.js";const h=JSON.parse('{"title":"【記事番号：8383】 WIRELESS第二弾は？","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/8383.md"}'),o={name:"其他/comment/8383.md"},s=r("",4),_=[s];function c(n,i,d,p,l,m){return t(),a("div",null,_)}const E=e(o,[["render",c]]);export{h as __pageData,E as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as o}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：9360】 「太陽系亜種音」ＨＰ完成！","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9360.md"}'),r={name:"其他/comment/9360.md"},n=o("",5),c=[n];function s(_,i,h,p,l,m){return t(),a("div",null,c)}const f=e(r,[["render",s]]);export{d as __pageData,f as default};

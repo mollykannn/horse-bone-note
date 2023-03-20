@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as t,N as a}from"./chunks/framework.d99b7f24.js";const d=JSON.parse('{"title":"【記事番号：6868】 ユーザ登録開始延期","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/6868.md"}'),o={name:"其他/comment/6868.md"},n=a("",5),c=[n];function i(_,p,s,h,b,l){return r(),t("div",null,c)}const f=e(o,[["render",i]]);export{d as __pageData,f as default};

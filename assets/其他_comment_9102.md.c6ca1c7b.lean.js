@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,N as o}from"./chunks/framework.d99b7f24.js";const l=JSON.parse('{"title":"【記事番号：9102】 Boxset販売についての要望","description":"","frontmatter":{},"headers":[],"relativePath":"其他/comment/9102.md"}'),a={name:"其他/comment/9102.md"},p=o("",11),s=[p];function _(c,n,b,i,d,m){return t(),r("div",null,s)}const x=e(a,[["render",_]]);export{l as __pageData,x as default};
